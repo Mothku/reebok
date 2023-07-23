@@ -1,2 +1,2 @@
-# reebok.github.io
+# reebok
 Reebok | India
